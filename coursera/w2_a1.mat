@@ -1,0 +1,7 @@
+b=1000;
+r=10/100;
+y=2;
+
+debt1=b+(b*r);
+debt=debt1+(debt1*r);
+debt
